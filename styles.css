@@ -1,0 +1,83 @@
+body {
+    background-image: url('https://i.pinimg.com/564x/6f/13/d5/6f13d5b606607e19d7e33bbfde625d09.jpg');
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+.menu {
+    width: 80%;
+    background-color: rgb(252, 140, 214);
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+
+h1 {
+    font-size: 45px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    padding: 15px;
+}
+
+h1, .established {
+    background-color: rgb(99, 255, 255);
+}
+
+h2 {
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1, h2, p {
+    text-align: center;
+  }
+
+
+.item p {
+    display: inline-block;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.torta, .helado {
+    text-align: left;
+    width: 75%;
+}
+
+.price {
+    text-align: right;
+    width: 25%;
+}
+
+hr {
+    height: 2px;
+    background-color: rgb(204, 50, 178);
+    border-color: rgb(204, 50, 178);
+}
+
+.bottom-line {
+    margin-top: 25px;
+}
+
+footer {
+    font-size: 15px;
+}
+
+a {
+    color: black;
+  }
+  
+  a:visited {
+    color: rgb(204, 0, 255);
+  }
+  
+  a:hover {
+    color: rgb(255, 0, 234);
+  }
+  
+  a:active {
+    color: rgb(255, 0, 179);
+  }
